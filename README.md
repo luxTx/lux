@@ -9,8 +9,6 @@
 - **Languages:** Python, Java, JavaScript, C++
 - **Tools:** Vim, VsCode, AndroidStudio, Blender, KiCAD, FreeCAD
 
-Thanks for stopping by! Let's create something amazing together! ✨
-
 ## 📈 My GitHub stats
 
 <div class="badges-githubstats">
@@ -48,3 +46,4 @@ Thanks for stopping by! Let's create something amazing together! ✨
   </tr>
   </table>
 </div>
+<p align="center"> Thanks for stopping by! Let's create something amazing together! ✨</p>
